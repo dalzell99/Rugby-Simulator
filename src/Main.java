@@ -22,7 +22,6 @@ import java.util.Timer;
 public class Main {
 
     static ArrayList<Game> allGames = new ArrayList<Game>();
-    static ArrayList<Events> events = new ArrayList<>();
     static Timer timer = new Timer();
     static int currentTimeSinceMidnightinMinutes;
     static int count = 0;

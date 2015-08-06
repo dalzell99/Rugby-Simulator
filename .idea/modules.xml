@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Rugby Simulator.iml" filepath="$PROJECT_DIR$/Rugby Simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpcomponents-client-4.4.1/httpcomponents-client-4.4.1.iml" filepath="$PROJECT_DIR$/httpcomponents-client-4.4.1/httpcomponents-client-4.4.1.iml" />
     </modules>
   </component>
 </project>
